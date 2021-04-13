@@ -1,1 +1,1 @@
-# ProgrammingAssignment5A
+This program allows a user to enter an amount and type of surfboard to purchase (modified with XXXSmall option), display the running totals of quantities and order amount, and display the available program options at any time.
